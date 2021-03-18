@@ -1,1 +1,5 @@
 favicon_*
+node_modules
+.cache
+package*
+dist
