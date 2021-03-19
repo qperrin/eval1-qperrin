@@ -6,4 +6,4 @@
 
 ## Framework css
 
-- bootstrap
+- bootstrap 5
